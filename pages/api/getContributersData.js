@@ -32,6 +32,7 @@ export default function handler(req, res) {
       github: "https://github.com/darakhshadeepak",
       linkedin: "https://www.linkedin.com/in/deepak-gautam-14b027184/",
     },
+  
     {
       name: "Ugur Atmaca",
       img: "https://avatars.githubusercontent.com/u/1944295?v=4",
@@ -159,8 +160,13 @@ export default function handler(req, res) {
       img: 'https://avatars.githubusercontent.com/u/72344536?s=96&v=4',
       github: 'https://github.com/h4r1337',
       linkedin: 'https://www.linkedin.com/in/hari-sankar-rs-4bb222203/'
+    },
+      {
+      name: 'Jayath de Silva',
+      img: 'https://avatars.githubusercontent.com/u/92852913?s=96&v=4',
+      github: 'https://github.com/JayathJSD',
+      linkedin: 'https://www.linkedin.com/in/jayath-de-silva-jay/'
     }
-
 
 
   ]);
